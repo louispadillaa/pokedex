@@ -1,6 +1,6 @@
 # PokeDex — Despliegue en Azure App
 ### Seguridad
-Se agregaron los encabezados HTTP de seguridad en un Staticwebapp.config.json
+Se agregaron los encabezados HTTP de seguridad en un web.config
 #### Headers: 
 - Content-Security-Policy 
 - Strict-Transport-Security
